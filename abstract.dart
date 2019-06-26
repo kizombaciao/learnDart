@@ -18,6 +18,8 @@ void main() {
   print(greetBob(Imposter()));
 }
 
+// not 100% clear !!!
+
 /*
 Use the abstract modifier to define an abstract 
 class—a class that can’t be instantiated. 

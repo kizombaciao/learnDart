@@ -11,3 +11,7 @@ main(List<String> arguments) {
   print(123);
   print(add(1));
 }
+
+/*
+  Generics
+*/
